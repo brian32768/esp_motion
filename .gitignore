@@ -1,5 +1,7 @@
 include/localize.h
 
+.pio/
+
 # Prerequisites
 *.d
 
